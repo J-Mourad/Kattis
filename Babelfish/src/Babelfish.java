@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Babelfish {
-	
+	// This is a comment for another commit
     private static final String EH = "eh";
     private final Map<String, String> dictionary = new HashMap<>(100000);
 
